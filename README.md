@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0070-climbing-stairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3312-sorted-gcd-pair-queries) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
