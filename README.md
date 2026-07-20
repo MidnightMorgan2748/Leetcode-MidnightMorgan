@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1260-shift-2d-grid) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
