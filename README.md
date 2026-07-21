@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
 |  |
 | ------- |
