@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0070-climbing-stairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
