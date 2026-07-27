@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1260-shift-2d-grid) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -94,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
