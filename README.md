@@ -151,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
