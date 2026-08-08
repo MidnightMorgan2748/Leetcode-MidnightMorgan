@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
