@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
