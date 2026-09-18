@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0835-image-overlap) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
