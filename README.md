@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
