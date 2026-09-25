@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
+| [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1927-sum-game) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
