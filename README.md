@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
