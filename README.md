@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2029-stone-game-ix) |
+| [2485-find-the-pivot-integer](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3024-type-of-triangle) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2485-find-the-pivot-integer](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3904-smallest-stable-index-ii) |
