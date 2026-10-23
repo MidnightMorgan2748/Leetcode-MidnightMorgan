@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1406-stone-game-iii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1510-stone-game-iv) |
@@ -491,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
