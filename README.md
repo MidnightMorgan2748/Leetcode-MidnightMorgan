@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0486-predict-the-winner) |
