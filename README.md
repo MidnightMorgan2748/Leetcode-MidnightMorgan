@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0301-remove-invalid-parentheses) |
+| [0412-fizz-buzz](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0940-distinct-subsequences-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0486-predict-the-winner) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3069-distribute-elements-into-two-arrays-i) |
