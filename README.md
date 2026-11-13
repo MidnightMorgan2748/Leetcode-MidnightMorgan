@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
+| [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1140-stone-game-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
+| [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
 | [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0678-valid-parenthesis-string) |
+| [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1021-remove-outermost-parentheses) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
 | [1267-count-servers-that-communicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
