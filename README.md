@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1140-stone-game-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1260-shift-2d-grid) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1386-cinema-seat-allocation](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1267-count-servers-that-communicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
