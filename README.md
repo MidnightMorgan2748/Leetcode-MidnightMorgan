@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1260-shift-2d-grid) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1096-brace-expansion-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1436-destination-city) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1267-count-servers-that-communicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -589,4 +594,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
