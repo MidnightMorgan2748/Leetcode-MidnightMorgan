@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
