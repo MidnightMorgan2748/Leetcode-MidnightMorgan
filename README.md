@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0160-intersection-of-two-linked-lists) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MidnightMorgan2748/Leetcode-MidnightMorgan/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
